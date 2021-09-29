@@ -5,7 +5,7 @@ thumbnail: "/upload/istock-1133802328.jpg"
 year: 2018
 categories:
 - print
-description: subtitle
+description: " "
 
 ---
 # Project one
