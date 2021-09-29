@@ -20,7 +20,7 @@ fields:
   type: text
   config:
     required: true
-  label: Logotitle
+  label: logotitle
   description: PCGI
 - name: footer
   label: Footer
