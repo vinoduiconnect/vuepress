@@ -2,7 +2,7 @@
   <div class="wrapper">
 
     <Navbar :logo="$site.themeConfig.logo" :logotitle="$site.themeConfig.logotitle" />
-
+ <span class="text">{{ $site.themeConfig.logotitle }}</span>
     <div class="container">
 
       <!-- Works list -->
