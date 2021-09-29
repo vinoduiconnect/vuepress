@@ -5,7 +5,7 @@ thumbnail: "/upload/istock-615613034.jpg"
 year: 2017
 categories:
 - print
-description: subtitle
+description: " "
 
 ---
 # Project three
