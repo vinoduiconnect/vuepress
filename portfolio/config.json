@@ -2,7 +2,7 @@
   "title": "PCGI",
   "description": "Creative Agency",
   "logo": "/upload/logo-pcgi.png",
-  "footer": "Ⓒ Acme",
+  "footer": "Ⓒ PCGI",
   "favicon": "/upload/logo-pcgi.png",
   "navigation": [
     {
@@ -29,5 +29,6 @@
       "position": "right",
       "external": false
     }
-  ]
+  ],
+  "logotitle": "PCGI"
 }
