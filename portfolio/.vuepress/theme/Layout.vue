@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
 
-    <Navbar :logo="$site.themeConfig.logo" />
+    <Navbar :logo="$site.themeConfig.logo" :logotitle="$site.themeConfig.logotitle" />
 
     <div class="container">
 
