@@ -8,7 +8,18 @@
       width: '100%',
     }"
   >
-
+   <div class="brand">
+      <router-link to="/">
+        <div
+          v-if="logo"
+          class="logo"
+          :style="{ backgroundImage: `url(${logo})`}"
+          :title="$site.title"
+        />
+        <span v-else>{{ $site.title }}</span>
+        <span v-text>{{ $site.title }}</span>
+      </router-link>
+    </div>
     <nav v-if="navLinks" class="navigation left desktop-nav">
       <ul>
         <router-link
@@ -27,18 +38,7 @@
       </ul>
     </nav>
 
-    <div class="brand">
-      <router-link to="/">
-        <div
-          v-if="logo"
-          class="logo"
-          :style="{ backgroundImage: `url(${logo})`}"
-          :title="$site.title"
-        />
-        <span v-else>{{ $site.title }}</span>
-        <span v-text>{{ $site.title }}</span>
-      </router-link>
-    </div>
+ 
 
     <nav v-if="navLinks" class="navigation right desktop-nav">
       <ul>
