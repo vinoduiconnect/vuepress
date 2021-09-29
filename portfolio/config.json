@@ -2,7 +2,6 @@
   "title": "PCGI",
   "description": "Creative Agency",
   "logo": "/upload/logo-pcgi.png",
-  "logotitle": "PCGI",
   "footer": "Ⓒ PCGI",
   "favicon": "/upload/logo-pcgi.png",
   "navigation": [
@@ -30,5 +29,6 @@
       "position": "right",
       "external": false
     }
-  ]
+  ],
+  "logotitle": "PCGI"
 }

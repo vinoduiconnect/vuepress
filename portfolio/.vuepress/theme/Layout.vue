@@ -1,7 +1,8 @@
 <template>
   <div class="wrapper">
 
-    <Navbar :logo="$site.themeConfig.logo" :logotitle="$site.themeConfig.logotitle" />
+    <Navbar :logo="$site.themeConfig.logo" />
+
     <div class="container">
 
       <!-- Works list -->

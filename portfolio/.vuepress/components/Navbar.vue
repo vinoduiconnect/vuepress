@@ -36,7 +36,7 @@
           :title="$site.title"
         />
         <span v-else>{{ $site.title }}</span>
-        <span>{{ $site.logotitle }}</span>
+        <span v-text>{{ $site.title }}</span>
       </router-link>
     </div>
 
