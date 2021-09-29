@@ -15,6 +15,13 @@ fields:
 - type: file
   name: logo
   label: Logo
+  description: PCGI
+- name: logotitle
+  type: text
+  config:
+    required: true
+  label: Logotitle
+  description: PCGI
 - name: footer
   label: Footer
   type: text
