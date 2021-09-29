@@ -7,13 +7,13 @@
   "navigation": [
     {
       "text": "Industries",
-      "link": "/",
+      "link": "/#industries",
       "position": "right",
       "external": false
     },
     {
       "text": "Capabilities",
-      "link": "https://www.instagram.com/its.nwa",
+      "link": "/",
       "position": "right",
       "external": false
     },
