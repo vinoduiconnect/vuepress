@@ -1,5 +1,5 @@
 <template>
-  <div class="project-list">
+  <div id="industries" class="project-list">
 
     <router-link
       :to="post.path"
