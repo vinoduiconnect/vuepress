@@ -1,5 +1,5 @@
 ---
-title: Project one
+title: Life Sciences
 date: 2018-08-01T00:00:00.000+00:00
 thumbnail: "/upload/istock-1133802328.jpg"
 year: 2018
