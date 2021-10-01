@@ -126,6 +126,10 @@
     font-weight: 600;
     z-index: 10;
   }
+    .header a{
+    display: flex;
+    font-size: 25px;
+  }
 
   .logo {
     width: 30px;
