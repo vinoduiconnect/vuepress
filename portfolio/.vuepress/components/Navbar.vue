@@ -128,12 +128,16 @@
   }
 
   .logo {
-    width: 3rem;
-    height: 3rem;
+    width: 30px;
+    height: 30px;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    transform: translate(-50%,-50%);
+    display: block;
+    flex: none;
+    float: none;
+    position: relative;
+    visibility: visible;
   }
 
   .navigation li {
